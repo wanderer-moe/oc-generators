@@ -1,0 +1,80 @@
+{
+    "options": [{
+            "name": "Gender",
+            "entries": ["Male", "Female", "Non-binary"]
+        },
+        {
+            "name": "Pronouns",
+            "entries": ["He/Him", "She/Her", "They/Them", "He/They", "She/They"]
+        },
+        {
+            "name": "Height",
+            "entries": ["Short", "Average", "Tall"]
+        },
+        {
+            "name": "Age",
+            "entries": ["Child", "Teenager", "Adult"]
+        },
+        {
+            "name": "Hair Type",
+            "entries": ["Short", "Medium", "Long"]
+        },
+        {
+            "name": "Hair Style",
+            "entries": ["Curly", "Straight", "Wavy"]
+        },
+        {
+            "name": "Personality Type",
+            "entries": [
+                "INTP",
+                "INTJ",
+                "ENTP",
+                "ENTJ",
+                "INFJ",
+                "INFP",
+                "ENFJ",
+                "ENFP",
+                "ISTJ",
+                "ISFJ",
+                "ESTJ",
+                "ESFJ",
+                "ISTP",
+                "ISFP",
+                "ESTP",
+                "ESFP"
+            ]
+        },
+        {
+            "name": "Hair Color",
+            "entries": [
+                "Black",
+                "Blue",
+                "Brown",
+                "Gray",
+                "Green",
+                "Orange",
+                "Pink",
+                "Purple",
+                "Red",
+                "White",
+                "Yellow"
+            ]
+        },
+        {
+            "name": "Eye Color",
+            "entries": [
+                "Black",
+                "Blue",
+                "Brown",
+                "Gray",
+                "Green",
+                "Orange",
+                "Pink",
+                "Purple",
+                "Red",
+                "White",
+                "Yellow"
+            ]
+        }
+    ]
+}
