@@ -22,7 +22,7 @@ The R2 bucket is synced using `rclone`.
 
 -   If you are to use this repository to base your own R2 bucket off of, you will need to change the `rclone` configuration to your own:
 
-```toml
+```
 [r2]
 type = s3
 provider = Cloudflare
