@@ -47,20 +47,11 @@
         },
         {
             "name": "School Year",
-            "entries": [
-                "First Year",
-                "Second Year",
-                "Third Year"
-            ]
+            "entries": ["First Year", "Second Year", "Third Year"]
         },
         {
             "name": "Class",
-            "entries": [
-                "A",
-                "B",
-                "C",
-                "D"
-            ]
+            "entries": ["A", "B", "C", "D"]
         },
         {
             "name": "Group",

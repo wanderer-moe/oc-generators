@@ -1,5 +1,6 @@
 {
-    "options": [{
+    "options": [
+        {
             "name": "Rarity",
             "entries": ["5 star", "4 star"]
         },
@@ -9,7 +10,15 @@
         },
         {
             "name": "Element",
-            "entries": ["Pyro", "Hydro", "Electro", "Anemo", "Cryo", "Geo", "Dendro"]
+            "entries": [
+                "Pyro",
+                "Hydro",
+                "Electro",
+                "Anemo",
+                "Cryo",
+                "Geo",
+                "Dendro"
+            ]
         },
         {
             "name": "Gender",
@@ -91,12 +100,14 @@
                 "Favonius Church",
                 "Fatui",
                 "Fatui Harbinger",
+                "Fontaine Research Institute",
                 "Gandharva Ville",
                 "Inazuma Shogunate",
                 "International Trade Comission",
                 "Knights of Favonius",
                 "Komore Teahouse",
                 "Kujou Clan",
+                "Kshahrewar",
                 "Liyue Qixing",
                 "Mahamatra",
                 "Ministry of Civil Affairs",
